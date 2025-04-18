@@ -35,6 +35,7 @@ my_army_simulation/
     ├── test_army.py
     ├── test_command.py
     └── test_operations.py
+```
 ## Описание модулей
 
 ### 1. main.py
@@ -98,7 +99,7 @@ my_army_simulation/
 | logistics_operation.py | Логистика | Снабжение и транспортировка |
 | combat_operation.py | Боевые действия | Симуляция сражений |
 | security_operation.py | Охрана объектов | Контроль безопасности |
-```
+
 ## Юнит-тесты
 
 ### Расположение: `tests/`
